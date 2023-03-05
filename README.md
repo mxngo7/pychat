@@ -1,2 +1,2 @@
-# pychat
-PyChat is an open-source LAN chat application created in python 3.10 using sockets that allows for fast and reliable communication on school networks so you can chat with your friends.
+# PyChat
+PyChat is a modern open-source LAN chat application built on python 3.10 designed to provide a fast and reliable communication experience for individuals and groups. With a highly customizable user interface, users can personalize PyChat to their liking. With its intuitive design and ease of use, PyChat makes it effortless to communicate with others and remains a feature-rich chat application that meets all of your messaging needs.
